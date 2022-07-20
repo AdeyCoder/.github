@@ -12,6 +12,19 @@ Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnES
 
 ## Links
 
+you can find Adey Coder social media
+
+- Youtube channel - <https://youtube.com/c/adeycoder>
+- Facebook page - <https://fb.me/adeycoder>
+- Twitter - <https://twitter.com/adey_coder>
+- Instagram - <https://instagram.com/adeycoder>
+- Tiktok - <https://tiktok.com/@adeycoder>
+- Telegram
+
+  - Channel - <https://t.me/adeycoder>
+  - Group - <https://t.me/adeycoderchat>
+  - Bot - <https://t.me/adeycoderbot>
+
 ## Buy and Support my work
 
 If want to support my work or buy a source codes you can use this
