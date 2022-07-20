@@ -10,6 +10,16 @@ Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnES
 - **Glassmorphism** designs using CSS Only
 - Website Section
 
+## Buy and Support my work
+
+If want to support my work or buy a source codes you can use this
+
+- ☕ BuyMeACoffee:  <https://www.buymeacoffee.com/adeycoder>
+- ☕ Ko-fi: <https://ko-fi.com/adeycoder>
+
+## Free Source
+
+you can find a free source codes below respositories categorized a easy access.
 ## Links
 
 you can find Adey Coder social media
@@ -24,14 +34,3 @@ you can find Adey Coder social media
   - Channel - <https://t.me/adeycoder>
   - Group - <https://t.me/adeycoderchat>
   - Bot - <https://t.me/adeycoderbot>
-
-## Buy and Support my work
-
-If want to support my work or buy a source codes you can use this
-
-- ☕ BuyMeACoffee:  <https://www.buymeacoffee.com/adeycoder>
-- ☕ Ko-fi: <https://ko-fi.com/adeycoder>
-
-## Free Source
-
-you can find a free source codes below respositories categorized a easy access.
