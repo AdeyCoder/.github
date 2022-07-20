@@ -1,12 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnESD9pw) youtube channel source code place. you can get/download free codes here. To get latest Videos on youtube channel [Subscribe Now](https://youtube.com/c/AdeyCoder?sub_confirmation=1)
 
-**Here are some ideas to get you started:**
+## Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Free Source
+
+## Buy and Support my work
