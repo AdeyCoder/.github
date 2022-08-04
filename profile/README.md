@@ -14,9 +14,7 @@ Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnES
 
 If want to support my work or buy a source codes you can use this
 
-- ☕ BuyMeACoffee:  <https://www.buymeacoffee.com/adeycoder>
-
-- ☕ Ko-fi: <https://ko-fi.com/adeycoder>
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adeycoder)  [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/adeycoder)
 
 ## Free Source Codes
 
