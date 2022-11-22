@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnESD9pw) youtube channel source code place. you can get/download free codes here. To get latest Videos on youtube channel [Subscribe Now](https://youtube.com/c/AdeyCoder?sub_confirmation=1). Adeu Coder channel tutorials focuses on
+Welcome to [**Adey Coder**](https://www.youtube.com/@AdeyCoder) youtube channel source code place. you can get/download free codes here. To get latest Videos on youtube channel [Subscribe Now](https://youtube.com/@AdeyCoder?sub_confirmation=1). Adeu Coder channel tutorials focuses on
 
 - Pure **CSS** Animations
 - HTML forms
@@ -24,7 +24,7 @@ you can find a free source codes below respositories categorized a easy access.
 
 you can find Adey Coder social media
 
-- Youtube channel - <https://youtube.com/c/adeycoder>
+- Youtube channel - <https://youtube.com/@adeycoder>
 - Facebook page - <https://fb.me/adeycoder>
 - Twitter - <https://twitter.com/adey_coder>
 - Instagram - <https://instagram.com/adeycoder>
