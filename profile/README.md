@@ -24,13 +24,13 @@ you can find a free source codes below respositories categorized a easy access.
 
 you can find Adey Coder social media
 
-- Youtube channel - <https://youtube.com/@adeycoder>
-- Facebook page - <https://fb.me/adeycoder>
-- Twitter - <https://twitter.com/adey_coder>
+- Youtube channel - <https://youtube.com/@AdeyCoder>
+- Facebook page - <https://fb.me/AdeyCoder>
+- Twitter - <https://twitter.com/_AdeyCoder>
 - Instagram - <https://instagram.com/adeycoder>
-- Tiktok - <https://tiktok.com/@adeycoder>
+- Tiktok - <https://tiktok.com/@AdeyCoder>
 - Telegram
 
-  - Channel - <https://t.me/adeycoder>
-  - Group - <https://t.me/adeycoderchat>
-  - Bot - <https://t.me/adeycoderbot>
+  - Channel - <https://t.me/AdeyCoder>
+  - Group - <https://t.me/AdeyCoderChat>
+  - Bot - <https://t.me/AdeyCoderBot>
