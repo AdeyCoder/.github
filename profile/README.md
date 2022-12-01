@@ -10,6 +10,10 @@ Welcome to [**Adey Coder**](https://www.youtube.com/channel/UCMLW2jB9h4aewOPJnES
 - **Glassmorphism** designs using CSS Only
 - Website Section
 
+## Technologies
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php&theme=light)
+
 ## Buy and Support my work
 
 If want to support my work or buy a source codes you can use this
